@@ -1,0 +1,7 @@
+{
+  "name": "@ui-components/docs",
+  "private": true,
+  "scripts": {
+    "hello": "echo 'hello world'"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ui-components",
+  "private": true,
+  "scripts": {
+    "test": "echo 'ui compoents'"
+  }
+}

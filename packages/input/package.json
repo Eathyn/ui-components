@@ -1,0 +1,12 @@
+{
+  "name": "@ui-components/input",
+  "version": "0.0.0",
+  "keywords": [],
+  "scripts": {
+    "test": "echo 'input component'"
+  },
+  "peerDependencies": {
+    "vue": ">=3.0.0"
+  },
+  "license": "ISC"
+}
